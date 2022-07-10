@@ -1,0 +1,18 @@
+element names like head and body come in pairs; <head> .... </head> they start, has smt in between
+then close with the forward slash. Always surrounded by '<'. But some elements close themselves like <br/> break tag
+
+head tag is used to connect css/javascript files, SEO like the title and icon on the page
+body tag is used to control the actual text you see on a page
+
+heading tags <h1> to <h6> and <p> for paragraphing tag
+
+block elements are elements that start on a new line and take up the entire width of the page. when you inspect element on the heading tags, 
+you will see that it highlights that entire line.
+examples are <h1>, <p>
+
+
+inline elements are elements that are the opposite of block elements/ only take up necessary width and not start on a new line
+examples are <button>, <span>, <b>(bold), <i>(italics)
+
+using <a href = "https://website.com"> smt smt smt</a>  links "smt" to that website.
+putting "target = "_blank"" in front of the website before the > makes it pop up in the new tab
