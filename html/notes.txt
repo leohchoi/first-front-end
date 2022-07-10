@@ -23,3 +23,10 @@ using <ul></ul> is the start of an unordered list. Need to use <li></li> inside 
 using <ol></ol> creates an ordered list. only diff is ul uses bullet points while ol uses 1,2,3 to list\
 
 <nav></nav> is the navigation
+
+use <main></main> to cover everything between the nav and footer. so after /nav but before footer
+
+use section inside of main to section of diff parts of the page. use section before header and end it before start of next header
+
+<img src="" alt=""> pulls up an image. src is the image location and alt is in case the person is using like a kindle and cant
+pull up the image so you give a text description
