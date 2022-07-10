@@ -20,4 +20,6 @@ putting "target = "_blank"" in front of the website before the > makes it pop up
 
 using <ul></ul> is the start of an unordered list. Need to use <li></li> inside the ul to create the list
 
-using <ol></ol> creates an ordered list
+using <ol></ol> creates an ordered list. only diff is ul uses bullet points while ol uses 1,2,3 to list\
+
+<nav></nav> is the navigation
