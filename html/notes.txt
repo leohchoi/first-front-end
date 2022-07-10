@@ -32,3 +32,8 @@ use section inside of main to section of diff parts of the page. use section bef
 pull up the image so you give a text description
 
 you use ./ to look at a file from the same directory but use ../ to look at the directory one outside of yours
+
+use <textarea></textarea> to create an area of text of your chosen size. e.g. <textarea rows = "10">
+using span /span allows for css to customize the word/letters
+
+<hr> creates horizontal line
