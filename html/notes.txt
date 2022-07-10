@@ -16,3 +16,8 @@ examples are <button>, <span>, <b>(bold), <i>(italics)
 
 using <a href = "https://website.com"> smt smt smt</a>  links "smt" to that website.
 putting "target = "_blank"" in front of the website before the > makes it pop up in the new tab
+
+
+using <ul></ul> is the start of an unordered list. Need to use <li></li> inside the ul to create the list
+
+using <ol></ol> creates an ordered list
